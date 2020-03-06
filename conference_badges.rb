@@ -1,1 +1,2 @@
-# Write your code here.
+name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
